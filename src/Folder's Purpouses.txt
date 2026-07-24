@@ -1,0 +1,22 @@
+Responsabilidad de cada carpeta
+
+agents/
+Contendrá los agentes inteligentes del sistema.
+
+core/
+Configuración general del proyecto.
+
+services/
+Conexión con APIs y servicios externos.
+
+models/
+Modelos de datos del proyecto.
+
+utils/
+Funciones auxiliares reutilizables.
+
+workflows/
+Lógica que coordinará la ejecución entre agentes.
+
+main.py
+Punto de entrada de la aplicación.
